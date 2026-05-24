@@ -1,5 +1,5 @@
-***************************************************************************************PURPOSE & ACKNOLEDGEMENTS*******************************************************************************************************
-
+PURPOSE & ACKNOLEDGEMENTS
+**********************************************************************************
 This training game was developed by a Xinglian Century employee for internal use only.
 Its purpose is to reinforce familiarity with GOFO procedures and operational standards.
 New team members are required to complete the learning session materials before accessing this game.
